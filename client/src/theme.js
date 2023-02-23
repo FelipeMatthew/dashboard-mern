@@ -83,7 +83,7 @@ export const tokensDark = {
               background: {
                 default: tokensDark.primary[600],
                 alt: tokensDark.primary[500],
-              },
+              }, 
             }
           : {
               // palette values for light mode
